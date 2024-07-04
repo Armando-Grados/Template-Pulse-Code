@@ -40,10 +40,10 @@
 
 
     <!--
-      The logo EVANCED; to change it, add a new image in the /img folder and paste 
-      the full name below the src tag, like../img/new-imagename.png. Starts
+      The logo EVANCED Start; to change it, add a new image in the /img folder and paste 
+      the full name below the src tag, like../img/new-imagename.png.
     -->
-    <div class="flex items-center justify-center"><img src="../img/evanced.png"></div>
+    <div class="flex items-center justify-center md:w-1/3 w-1/2 m-auto mb-4"><img src="../img/EWM_Logo.png"></div>
     <!--
       The logo EVANCED; Ends
     -->
