@@ -223,7 +223,6 @@ export default {
     form and the below mehtod can send it to provided link (API) 
     */
     submitFeedback() {
-      // const webhookURL = 'https://hooks.zapier.com/hooks/catch/2829215/3uhnc61/';
       const webhookURL = '';
       const data = {
         id: this.$route.params.id,
