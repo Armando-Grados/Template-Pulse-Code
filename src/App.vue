@@ -43,7 +43,7 @@
       The logo EVANCED Start; to change it, add a new image in the /img folder and paste 
       the full name below the src tag, like../img/new-imagename.png.
     -->
-    <div class="flex items-center justify-center md:w-1/4 w-4/5 m-auto mb-4"><img src="../img/EWM_Logo.png"></div>
+    <div class="flex items-center justify-center md:w-1/3 w-4/5 m-auto mb-4"><img src="../img/GHA_Logo.png"></div>
     <!--
       The logo EVANCED; Ends
     -->

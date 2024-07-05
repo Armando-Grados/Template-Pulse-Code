@@ -15,8 +15,8 @@
 1. src/App.vue 
 2. If you want to change any content, simply rewrite any text and save it
 (visit the App.vue page for further instruction to apply any changes)
-      
-# To change the site title and the site icon
+
+# To change the site title and the site Favicon
 
 1. Public/index.html
 2. Change the content written in  <title> New title </title>
